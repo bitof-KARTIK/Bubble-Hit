@@ -1,4 +1,5 @@
 <h1>Bubble Popper Challenge</h1>
+<a href="https://bitof-kartik.github.io/Bubble-Hit/> click here </a> <p> to enjoy the game. </p>
     <h2>Game Elements:</h2>
     <ul>
         <li><strong>Bubbles:</strong> The game populates the screen with a dynamic array of bubbles, each displaying a random number between 0 and 9.</li>
@@ -18,3 +19,4 @@
         <li>After each round, decide whether to try again and beat your previous score.</li>
     </ol>
     <p><em>Bubble Popper Challenge offers a delightful and addictive experience suitable for players of all ages. Sharpen your focus, enhance your reflexes, and enjoy the thrill of popping bubbles in this entertaining and challenging game!</em></p>
+
