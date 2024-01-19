@@ -1,5 +1,4 @@
 <h1>Bubble Popper Challenge</h1>
-<a href="https://bitof-kartik.github.io/Bubble-Hit/> click here </a> <p> to enjoy the game. </p>
     <h2>Game Elements:</h2>
     <ul>
         <li><strong>Bubbles:</strong> The game populates the screen with a dynamic array of bubbles, each displaying a random number between 0 and 9.</li>
