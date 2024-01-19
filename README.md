@@ -23,6 +23,6 @@ Aim for the highest score possible within the 60-second time limit.
 After each round, decide whether to try again and beat your previous score.
 Bubble Popper Challenge offers a delightful and addictive experience suitable for players of all ages. Sharpen your focus, enhance your reflexes, and enjoy the thrill of popping bubbles in this entertaining and challenging game!
 
-live at: https://kartik26113.github.io/BubbleHit/
+
 
 
